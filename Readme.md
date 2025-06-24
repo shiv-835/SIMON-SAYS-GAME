@@ -2,8 +2,6 @@
 
 A fun and interactive memory game built using **HTML**, **CSS**, and **JavaScript** – no libraries, no frameworks!
 
-![Simon Says Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmp3bHNkMXU2d3p5bTd3eW1pMzdld3E0eXhxNm1nNzJtY2NlN3ptdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PjaK3SVIwJ7yJmK6LW/giphy.gif)
-
 ---
 
 ## 🧠 What is it?
